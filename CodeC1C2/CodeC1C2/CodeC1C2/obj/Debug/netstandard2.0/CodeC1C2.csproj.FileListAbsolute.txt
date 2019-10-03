@@ -1,0 +1,17 @@
+D:\Courses\xamarin_projects\CodeC1C2\CodeC1C2\CodeC1C2\bin\Debug\netstandard2.0\CodeC1C2.deps.json
+D:\Courses\xamarin_projects\CodeC1C2\CodeC1C2\CodeC1C2\bin\Debug\netstandard2.0\CodeC1C2.dll
+D:\Courses\xamarin_projects\CodeC1C2\CodeC1C2\CodeC1C2\bin\Debug\netstandard2.0\CodeC1C2.pdb
+D:\Courses\xamarin_projects\CodeC1C2\CodeC1C2\CodeC1C2\obj\Debug\netstandard2.0\CodeC1C2.csprojAssemblyReference.cache
+D:\Courses\xamarin_projects\CodeC1C2\CodeC1C2\CodeC1C2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Courses\xamarin_projects\CodeC1C2\CodeC1C2\CodeC1C2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Courses\xamarin_projects\CodeC1C2\CodeC1C2\CodeC1C2\obj\Debug\netstandard2.0\CodeC1C2.csproj.CoreCompileInputs.cache
+D:\Courses\xamarin_projects\CodeC1C2\CodeC1C2\CodeC1C2\obj\Debug\netstandard2.0\CodeC1C2.AssemblyInfoInputs.cache
+D:\Courses\xamarin_projects\CodeC1C2\CodeC1C2\CodeC1C2\obj\Debug\netstandard2.0\CodeC1C2.AssemblyInfo.cs
+D:\Courses\xamarin_projects\CodeC1C2\CodeC1C2\CodeC1C2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Courses\xamarin_projects\CodeC1C2\CodeC1C2\CodeC1C2\obj\Debug\netstandard2.0\CodeC1C2.dll
+D:\Courses\xamarin_projects\CodeC1C2\CodeC1C2\CodeC1C2\obj\Debug\netstandard2.0\CodeC1C2.pdb
+D:\Courses\xamarin_projects\CodeC1C2\CodeC1C2\CodeC1C2\obj\Debug\netstandard2.0\Chap1_AddingViews.xaml.g.cs
+D:\Courses\xamarin_projects\CodeC1C2\CodeC1C2\CodeC1C2\obj\Debug\netstandard2.0\Chap2_ArrayMarkup.xaml.g.cs
+D:\Courses\xamarin_projects\CodeC1C2\CodeC1C2\CodeC1C2\obj\Debug\netstandard2.0\Chap2_ReferenceMarkup.xaml.g.cs
+D:\Courses\xamarin_projects\CodeC1C2\CodeC1C2\CodeC1C2\obj\Debug\netstandard2.0\Chap2_SettingProperty.xaml.g.cs
+D:\Courses\xamarin_projects\CodeC1C2\CodeC1C2\CodeC1C2\obj\Debug\netstandard2.0\Chap2_XAMLConstructors.xaml.g.cs
